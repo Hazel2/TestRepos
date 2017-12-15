@@ -1,2 +1,2 @@
 I am Junio Hamano!
-This is for exercize 3.7!
+This is exercize 3.7!
